@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Developer Coding"
-       width="6000"/>
+       width="700"/>
 </p>
 
 
