@@ -2,26 +2,14 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=enesbugrayener&&style=plastics&&color=blue" align="right"/> </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Developer Coding"
-       width="350"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-       alt="Coding Guy"
-       width="300"/>
+       width="6000"/>
 </p>
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-       alt="Hacker Coding"
-       width="350"/>
-</p>
 
 
 
