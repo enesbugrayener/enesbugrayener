@@ -1,8 +1,17 @@
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=enesbugrayener&&style=plastics&&color=blue" align="right"/> </p>
+About Me
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"> </p>
+💻 I’m a Software Developer
+
+🧠 Interested in Backend Development, Automation & Databases
+
+🔭 Currently working on Java & Python projects
+
+🌱 Learning Docker, CI/CD & Cloud
+
+⚡ Fun fact: I love solving problems more than writing code
 
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -52,7 +61,10 @@
          alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark" height="160"/> </p>
 
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" alt="Chrome Dino"> </p>
 
+<p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/> </a> </p>
