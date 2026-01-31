@@ -67,4 +67,4 @@ About Me
 
 <p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" alt="Chrome Dino"> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/enes-bu%C4%9Fra-yener" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/enes-bu%C4%9Fra-yener" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/> </a>  </p>
