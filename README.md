@@ -2,6 +2,24 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=enesbugrayener&&style=plastics&&color=blue" align="right"/> </p>
 
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+       alt="Hacker Coding"
+       width="350"/>
+</p>
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
