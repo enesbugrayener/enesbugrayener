@@ -61,10 +61,10 @@ About Me
          alt="MySQL" width="40" height="40"/>
   </a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark" height="160"/> </p>
+
 
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" alt="Chrome Dino"> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/enes-bu%C4%9Fra-yener" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/> </a> </p>
