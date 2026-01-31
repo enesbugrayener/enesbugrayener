@@ -7,9 +7,8 @@ About Me
 
 🧠 Interested in Backend Development, Automation & Databases
 
-🔭 Currently working on Java & Python projects
+🔭 Currently working on Java,C#,Python & MySql projects
 
-🌱 Learning Docker, CI/CD & Cloud
 
 ⚡ Fun fact: I love solving problems more than writing code
 
