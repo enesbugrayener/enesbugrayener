@@ -9,6 +9,13 @@
 </p>
 
 
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khalby786/chrome-dino-game/main/dino.gif"
+       alt="Dino Game"
+       width="600">
+</p>
 
 
 
